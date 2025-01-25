@@ -1,0 +1,115 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_85147A64_9956_E727_41D8_C68FC1CE649D.label = KT. Lt 1 Rumah A - Final ed
+panorama_637D7F72_9B4A_3D22_41D0_6DC170ACA0A3.label = KT. Master Bedroom Final ed
+panorama_8AB7E026_9956_2322_41DE_2F9134E236D9.label = KT. Master Bedroom Final ed
+panorama_8AB5D5F0_9956_2D3E_41D2_F6361451222D.label = Living Room Final_1
+panorama_8AB5FA3C_9956_2727_41A7_6AB77E085F8E.label = Lt. 2 Tangga Finish_1
+panorama_8AB54F73_9956_3D22_41D2_0A483C80F73D.label = Master Bathroom Finish_1
+
+## Skin
+
+### Button
+Button_8CF9EF5D_93E1_216B_41E0_025FDE77638E_mobile.label = 1. 1200 Induction tilt-able stove 4
+Button_8CF9EF5D_93E1_216B_41E0_025FDE77638E.label = 1. 1200 Induction tilt-able stove 4
+Button_BBCA0051_9427_3F7B_41A3_2A28A910D17B_mobile.label = 10. Holding Cabinet 4
+Button_BBCA0051_9427_3F7B_41A3_2A28A910D17B.label = 10. Holding Cabinet 4
+Button_BBACFEEC_9427_2328_41DA_1C058F20C8AF_mobile.label = 11. 50KG Rice Washer 2
+Button_BBACFEEC_9427_2328_41DA_1C058F20C8AF.label = 11. 50KG Rice Washer 2
+Button_BA3620DE_9426_FF69_41C8_010530EC4FCF.label = 12. Vegetable Cutter 1
+Button_BA3620DE_9426_FF69_41C8_010530EC4FCF_mobile.label = 12. Vegetable Cutter 1
+Button_A759844A_9422_E768_41C6_7EB61AC9A5C6_mobile.label = 13. Potato Peeler 1
+Button_A759844A_9422_E768_41C6_7EB61AC9A5C6.label = 13. Potato Peeler 1
+Button_A6ADEC90_9423_27F8_41D6_45DCC568EEB0_mobile.label = 14. Water Heater(90L) 1
+Button_A6ADEC90_9423_27F8_41D6_45DCC568EEB0.label = 14. Water Heater(90L) 1
+Button_A5EF44D5_9423_277B_41C8_3242761CD3A8_mobile.label = 15. Four Door Refrigerated refrigerator 1
+Button_A5EF44D5_9423_277B_41C8_3242761CD3A8.label = 15. Four Door Refrigerated refrigerator 1
+Button_A8620DC4_9421_2159_41B9_53B1B080FEFC.label = 16. Smoke smoke exhaust hood 1
+Button_A8620DC4_9421_2159_41B9_53B1B080FEFC_mobile.label = 16. Smoke smoke exhaust hood 1
+Button_8CE61F5D_93E1_216B_41CF_87D6FCDD0895_mobile.label = 2. Large oil-water separation fryer-electric 1
+Button_8CE61F5D_93E1_216B_41CF_87D6FCDD0895.label = 2. Large oil-water separation fryer-electric 1
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C_mobile.label = 3. Double door steamer-Electric 3
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C.label = 3. Double door steamer-Electric 3
+Button_8CE65F5D_93E1_216B_41CB_39E5DCEC4EDA.label = 4. Double Sink 2
+Button_8CE65F5D_93E1_216B_41CB_39E5DCEC4EDA_mobile.label = 4. Double Sink 2
+Button_8CE67F5D_93E1_216B_41D9_870F52F4E799.label = 5. Double Layered Workbench 5
+Button_8CE67F5D_93E1_216B_41D9_870F52F4E799_mobile.label = 5. Double Layered Workbench 5
+Button_8CE69F5D_93E1_216B_41D0_8448BF4A7D0B_mobile.label = 6. Double Layered Shelf 3
+Button_8CE69F5D_93E1_216B_41D0_8448BF4A7D0B.label = 6. Double Layered Shelf 3
+Button_BF3E3D7A_9421_6128_41C4_3AD924D97D04_mobile.label = 7. Double Layered Movable Workbench 4
+Button_BF3E3D7A_9421_6128_41C4_3AD924D97D04.label = 7. Double Layered Movable Workbench 4
+Button_BA87802E_9427_FF28_41DA_0082218A71DE.label = 8+ Holding and Defrosting Trolley 4
+Button_BA87802E_9427_FF28_41DA_0082218A71DE_mobile.label = 8+ Holding and Defrosting Trolley 4
+Button_A42E4B11_9427_62FB_41C7_F238D7E830D2.label = 8. Four Layer Shelves 7
+Button_A42E4B11_9427_62FB_41C7_F238D7E830D2_mobile.label = 8. Four Layer Shelves 7
+Button_BBE961CF_9427_2167_41D9_284391C800BA_mobile.label = 9. GN Pans Trolley 4
+Button_BBE961CF_9427_2167_41D9_284391C800BA.label = 9. GN Pans Trolley 4
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C_mobile.pressedLabel = Location
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C.pressedLabel = Location
+
+### Image
+Image_0E1FA7B6_9AFA_ED23_41B2_B1808F94B76C.url = skin/Image_0E1FA7B6_9AFA_ED23_41B2_B1808F94B76C_en.png
+Image_15EDA969_9ACA_252E_41D9_4B8309BCF193.url = skin/Image_15EDA969_9ACA_252E_41D9_4B8309BCF193_en.png
+Image_20A3908F_9AD6_23E1_41D2_4EC199E7CA73.url = skin/Image_20A3908F_9AD6_23E1_41D2_4EC199E7CA73_en.png
+Image_21DFFD72_9ADA_5D22_419E_F1F67D6D638A.url = skin/Image_21DFFD72_9ADA_5D22_419E_F1F67D6D638A_en.png
+Image_2C10618D_9AF6_25E6_41C5_2FB8A7BCC1E5.url = skin/Image_2C10618D_9AF6_25E6_41C5_2FB8A7BCC1E5_en.png
+Image_30CBB766_9ADE_2D23_41D9_9F9BD6C090F6.url = skin/Image_30CBB766_9ADE_2D23_41D9_9F9BD6C090F6_en.png
+Image_348927F9_9AF6_ED2E_41DE_C5CE8F25C2C0.url = skin/Image_348927F9_9AF6_ED2E_41DE_C5CE8F25C2C0_en.png
+Image_35605573_9AD6_2D21_41DF_49CCD93A450A.url = skin/Image_35605573_9AD6_2D21_41DF_49CCD93A450A_en.png
+Image_39F3B177_9AF9_E521_41DD_D774AE61DE61.url = skin/Image_39F3B177_9AF9_E521_41DD_D774AE61DE61_en.png
+Image_4AFA7919_9AB6_E2E1_41D9_3D5FE279F96D.url = skin/Image_4AFA7919_9AB6_E2E1_41D9_3D5FE279F96D_en.png
+Image_4DC164B0_9ABA_233F_41D9_E358C9541C63.url = skin/Image_4DC164B0_9ABA_233F_41D9_E358C9541C63_en.png
+Image_5BAF8D0E_9ACA_22E2_41DF_CF83AB355BD7.url = skin/Image_5BAF8D0E_9ACA_22E2_41DF_CF83AB355BD7_en.png
+Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523.url = skin/Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523_en.jpg
+Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523_mobile.url = skin/Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523_mobile_en.jpg
+Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8.url = skin/Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8_en.png
+Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8_mobile.url = skin/Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8_mobile_en.png
+Image_9E7CD1AB_9B4E_2522_41B2_BDB5E4F0BE06.url = skin/Image_9E7CD1AB_9B4E_2522_41B2_BDB5E4F0BE06_en.png
+Image_9E7CD1AB_9B4E_2522_41B2_BDB5E4F0BE06_mobile.url = skin/Image_9E7CD1AB_9B4E_2522_41B2_BDB5E4F0BE06_mobile_en.png
+Image_9E7CD1AC_9B4E_2527_418B_C894719EA413.url = skin/Image_9E7CD1AC_9B4E_2527_418B_C894719EA413_en.png
+Image_9E7CD1AC_9B4E_2527_418B_C894719EA413_mobile.url = skin/Image_9E7CD1AC_9B4E_2527_418B_C894719EA413_mobile_en.png
+Image_9E7CD1AC_9B4E_2527_41D6_E6A88EED16A3.url = skin/Image_9E7CD1AC_9B4E_2527_41D6_E6A88EED16A3_en.png
+Image_9E7CD1AC_9B4E_2527_41D6_E6A88EED16A3_mobile.url = skin/Image_9E7CD1AC_9B4E_2527_41D6_E6A88EED16A3_mobile_en.png
+Image_9E7CD1AC_9B4E_2527_41D6_F5EABB5F336E.url = skin/Image_9E7CD1AC_9B4E_2527_41D6_F5EABB5F336E_en.png
+Image_9E7CD1AC_9B4E_2527_41D6_F5EABB5F336E_mobile.url = skin/Image_9E7CD1AC_9B4E_2527_41D6_F5EABB5F336E_mobile_en.png
+Image_9E7CD1AC_9B4E_2527_41E3_BCCEBF561D8C.url = skin/Image_9E7CD1AC_9B4E_2527_41E3_BCCEBF561D8C_en.png
+Image_9E7CD1AC_9B4E_2527_41E3_BCCEBF561D8C_mobile.url = skin/Image_9E7CD1AC_9B4E_2527_41E3_BCCEBF561D8C_mobile_en.png
+Image_9E7CD1AE_9B4E_2522_41C3_C0F6724FC5B5.url = skin/Image_9E7CD1AE_9B4E_2522_41C3_C0F6724FC5B5_en.png
+Image_9E7CD1AE_9B4E_2522_41C3_C0F6724FC5B5_mobile.url = skin/Image_9E7CD1AE_9B4E_2522_41C3_C0F6724FC5B5_mobile_en.png
+Image_9E7CD1AE_9B4E_2522_41D3_F35BDB426B7F.url = skin/Image_9E7CD1AE_9B4E_2522_41D3_F35BDB426B7F_en.png
+Image_9E7CD1AE_9B4E_2522_41D3_F35BDB426B7F_mobile.url = skin/Image_9E7CD1AE_9B4E_2522_41D3_F35BDB426B7F_mobile_en.png
+Image_9E7CD1AE_9B4E_2522_41E3_2C89D1A87E77.url = skin/Image_9E7CD1AE_9B4E_2522_41E3_2C89D1A87E77_en.png
+Image_9E7CD1AE_9B4E_2522_41E3_2C89D1A87E77_mobile.url = skin/Image_9E7CD1AE_9B4E_2522_41E3_2C89D1A87E77_mobile_en.png
+Image_9E7CD1AF_9B4E_2521_41D0_E9C04A16A976.url = skin/Image_9E7CD1AF_9B4E_2521_41D0_E9C04A16A976_en.png
+Image_9E7CD1AF_9B4E_2521_41D0_E9C04A16A976_mobile.url = skin/Image_9E7CD1AF_9B4E_2521_41D0_E9C04A16A976_mobile_en.png
+Image_9E7CD1AF_9B4E_2522_41D0_E98BF3141630.url = skin/Image_9E7CD1AF_9B4E_2522_41D0_E98BF3141630_en.png
+Image_9E7CD1AF_9B4E_2522_41D0_E98BF3141630_mobile.url = skin/Image_9E7CD1AF_9B4E_2522_41D0_E98BF3141630_mobile_en.png
+Image_9E7CD1B1_9B4E_2521_41D2_6EF388D2C542.url = skin/Image_9E7CD1B1_9B4E_2521_41D2_6EF388D2C542_en.png
+Image_9E7CD1B1_9B4E_2521_41D2_6EF388D2C542_mobile.url = skin/Image_9E7CD1B1_9B4E_2521_41D2_6EF388D2C542_mobile_en.png
+Image_9E7CD1B1_9B4E_2521_41E0_5303801E1D5F.url = skin/Image_9E7CD1B1_9B4E_2521_41E0_5303801E1D5F_en.png
+Image_9E7CD1B1_9B4E_2521_41E0_5303801E1D5F_mobile.url = skin/Image_9E7CD1B1_9B4E_2521_41E0_5303801E1D5F_mobile_en.png
+Image_9E7CD1B2_9B4E_2523_41C5_2A41714D48D2.url = skin/Image_9E7CD1B2_9B4E_2523_41C5_2A41714D48D2_en.png
+Image_9E7CD1B2_9B4E_2523_41C5_2A41714D48D2_mobile.url = skin/Image_9E7CD1B2_9B4E_2523_41C5_2A41714D48D2_mobile_en.png
+Image_CF0E9746_99D6_6D63_41AB_61941DFB51DD.url = skin/Image_CF0E9746_99D6_6D63_41AB_61941DFB51DD_en.png
+Image_D0E051CF_99DA_2561_41E2_1A8BD7BD3AB5.url = skin/Image_D0E051CF_99DA_2561_41E2_1A8BD7BD3AB5_en.png
+Image_EF65B1E7_9ACE_2521_41DA_EBEA7DF54237.url = skin/Image_EF65B1E7_9ACE_2521_41DA_EBEA7DF54237_en.png
+Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD.url = skin/Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD_en.png
+Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD_mobile.url = skin/Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD_mobile_en.png
+Image_F279BE42_9751_20BB_41D3_1D22A558501D.url = skin/Image_F279BE42_9751_20BB_41D3_1D22A558501D_en.png
+Image_F279BE42_9751_20BB_41D3_1D22A558501D_mobile.url = skin/Image_F279BE42_9751_20BB_41D3_1D22A558501D_mobile_en.png
+
+### Multiline Text
+HTMLText_8CF9FF5E_93E1_2169_41C0_A905ACDF5680.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_C35DEBA0_D529_ED18_41E0_A11B09A27751.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>Chair</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+HTMLText_8CF9FF5E_93E1_2169_41C0_A905ACDF5680_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_C35DEBA0_D529_ED18_41E0_A11B09A27751_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18.5px;"><B>Chair</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:6px;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Four Seasons Hotel
